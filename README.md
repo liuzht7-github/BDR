@@ -44,10 +44,6 @@ After preparing the tiled input data and the necessary CSV tables (as described 
 python run_hq_batch.py --workspace "path/to/your/invest_workspace" --lulc_dir "path/to/save/tiles" --threats_template "path/to/your/threats_template.csv" --sensitivity_table "path/to/your/sensitivity.csv"
 ```
 
-## License
-
-This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for full details.
-
 ## Citation
 
 Please cite our paper if you use this code in your research. The full citation will be added here upon publication.
